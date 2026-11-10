@@ -1,0 +1,6 @@
+.pixi/
+build/
+*.mojopkg
+*.mojoc
+__pycache__/
+/target/docs/
